@@ -1,4 +1,4 @@
-j#
+#
 # Copyright (C) 2019 Potato Open Sauce Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(DEVICE_PATH)/recovery/ro
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := E7746
-PRODUCT_NAME := omni_E7746
+PRODUCT_NAME := pbrp_E7746
 PRODUCT_BRAND := Micromax
 PRODUCT_MODEL := IN Note 1
 PRODUCT_MANUFACTURER := Micromax
